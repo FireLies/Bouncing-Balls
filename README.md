@@ -10,4 +10,4 @@ Features:
 \
 **Preview**
 
-<img width="400" height="225" alt="v1-5-0" src="https://github.com/user-attachments/assets/eef22f06-f9cd-4215-a4f5-c98a8444a5df" />
+<img width="800" height="450" alt="BB_150_2" src="https://github.com/user-attachments/assets/44809d80-dd84-426a-a917-e011c604f8d0" />
